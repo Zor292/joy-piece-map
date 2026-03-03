@@ -1,0 +1,13 @@
+{
+  "name": "joypiece-bot",
+  "version": "1.0.0",
+  "description": "JoyPiece Discord Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.1"
+  }
+}
